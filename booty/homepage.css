@@ -1,0 +1,11 @@
+.title{
+    text-align: center;
+    color: brown;
+}
+.image{
+    text-align: center;
+}
+
+body{
+    background-image: url(https://imageio.forbes.com/specials-images/dam/imageserve/855870076/0x0.jpg?format=jpg&width=1200)
+}
